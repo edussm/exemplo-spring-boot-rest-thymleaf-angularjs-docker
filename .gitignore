@@ -1,0 +1,4 @@
+/target/
+.classpath
+.project
+/jasper/report.pdf
